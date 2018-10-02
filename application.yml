@@ -17,3 +17,7 @@ eureka:
   instance:
     instance-id: microservicecloud-dept80-client
     prefer-ip-address: true
+	
+	#中文
+  #空格
+	#缩进
